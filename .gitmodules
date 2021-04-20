@@ -1,0 +1,3 @@
+[submodule "riscv-code-size-reduction"]
+	path = riscv-code-size-reduction
+	url = https://github.com/riscv/riscv-code-size-reduction/
